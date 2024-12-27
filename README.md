@@ -114,10 +114,7 @@ roller rollapp migrate
 
 ![image](https://github.com/user-attachments/assets/f589502e-4255-43de-b194-738395f84cdc)
 
-bakalım ne olmuş.
-```
-rollappd q rollappparams params
-```
+
 
 ![image](https://github.com/user-attachments/assets/e80ba421-52dc-45d4-8848-42dfe89e9e4f)
 
@@ -126,7 +123,10 @@ rollappd q rollappparams params
 roller rollapp services start
 ```
 
-
+👉bakalım ne olmuş.
+```
+rollappd q rollappparams params
+```
 
 
 
