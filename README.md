@@ -28,9 +28,9 @@ rollappd tx staking create-validator \
     --fees 4000000000000amll --gas auto --gas-adjustment 1.3 -y
 ```
 ### DSR Kontrol
-
+```
 rollappd q rollappparams params
-
+```
 👉❗NOT: çıktı bele ise devam
 
 ![image](https://github.com/user-attachments/assets/2c9dfdd0-28f7-4110-b6bf-5ea97e618ddb)
